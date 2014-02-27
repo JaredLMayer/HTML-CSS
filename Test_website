@@ -1,0 +1,44 @@
+<!DOCTYPE html> 
+<head> 
+    <style>
+    h1{ 
+        text-align:center; 
+    }
+    p{
+        text-align:center;
+        font-size:24px;
+    }
+    input{
+        border:0;
+        padding: 12px; <a href="HTML_Code_test.HTML" id="" title="HTML_Code_test">HTML_Code_test</a>
+        font-size: 18px; 
+    }
+    input[type="submit"]{
+        background: limegreen;
+        color:black;
+    }
+    body{
+        text-align:center;
+        background: url(http://backgrounds.picaboo.com/download/b1/18/b183aaf3eab94643a41e3fc1c526846a/bright_green.jpg); 
+        background-size:cover; 
+        background-position:center center; 
+        background-repeat:no-repeat; 
+        background-attachment:fixed; 
+        color: grey;
+        font-family: Helvetica; 
+    } 
+    </style> 
+    </head> 
+    <body>
+    <img src="http://www.clker.com/cliparts/1/b/1/2/11954315031702670122johnny_automatic_snowboarder.svg.hi.png"><h1>Jared L. Mayer </h1> 
+<p> Hey! So this website is just something quick that I am making SPECIFICALLY for NY Minute Magazine. Just to show you some of my code using HTML and CSS. Also, as you can see, I'm into snowboarding :)'</p> 
+<input ="Email" placeholder = "Your Email">
+<input type="Submit">
+</body> 
+<!DOCTYPE html>
+<head>
+	<style>
+	h1{
+		text-align:center;
+	}
+>>>>>>> External Changes
